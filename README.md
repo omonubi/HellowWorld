@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here
+This is simply a test of how to create and use a GitHub repo.
 
 ## Getting Started
 
