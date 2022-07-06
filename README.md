@@ -1,6 +1,7 @@
 # Project Title
 
 This is simply a test of how to create and use a GitHub repo.
+![headshot](limecat.jpeg)
 
 ## Getting Started
 
